@@ -6,7 +6,9 @@ This repository contains beginner-friendly Java examples.
 
 ### 🔹 Basics
 - [Hello World](Hello.java)
-- [Java Basics](JavaBasics.java)
+- [Name and details](Info.java)
+- [Primitive Datatypes and Strings](Datatypes.java)
+- 
 
 ### 🔹 Core Concepts
 - [Variables](Variables.java)
