@@ -7,8 +7,9 @@ This repository contains beginner-friendly Java examples.
 ### 🔹 Basics
 - [Hello World](Hello.java)
 - [Name and details](Info.java)
-- [Primitive Datatypes and Strings](Datatypes.java)
-- 
+- [Primitive Datatypes and Strings](Datatype.java)
+- [Sum of two integers](Sumof2.java)
+- [Area of a rectangle](Arearectangle.java)
 
 ### 🔹 Core Concepts
 - [Variables](Variables.java)
