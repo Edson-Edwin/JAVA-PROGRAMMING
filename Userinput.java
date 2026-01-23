@@ -20,6 +20,7 @@ public class Userinput {
     System.out.println("Hello "+name);
     System.out.println("Your number is :"+num1);
     System.out.println("Your CGPA is :"+cgpa);
+    sc.close();
    }
  //Usiong this because of input buffer issue   
 }
