@@ -10,6 +10,7 @@ This repository contains beginner-friendly Java examples.
 - [Primitive Datatypes and Strings](Datatype.java)
 - [Sum of two integers](Sumof2.java)
 - [Area of a rectangle](Arearectangle.java)
+- [User Input](Userinput.java)
 
 ### 🔹 Core Concepts
 - [Variables](Variables.java)
